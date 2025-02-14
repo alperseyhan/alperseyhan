@@ -10,7 +10,7 @@
 
 ### 🌱 What I'm Learning  
 🔹 Advanced AI applications in maritime  
-🔹 Reinforcement Learning for ship maneuvering  
+🔹 Emission Reduction for ship and port  
 🔹 Fuzzy BWM & Fuzzy VIKOR in ESG decision-making  
 
 ### 🤝 Let's Connect  
